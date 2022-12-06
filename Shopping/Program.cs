@@ -18,3 +18,4 @@ Console.WriteLine("Käse");
 Console.WriteLine("Käse");
 Console.WriteLine("Käse");
 Console.WriteLine("Zucker");
+Console.WriteLine("Kakao");
