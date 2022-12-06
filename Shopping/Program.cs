@@ -17,3 +17,4 @@ Console.WriteLine("Weißwein");
 Console.WriteLine("Käse");
 Console.WriteLine("Käse");
 Console.WriteLine("Käse");
+Console.WriteLine("Zucker");
